@@ -11,7 +11,7 @@
 }
 
 .hero-pic {
-    --bs-aspect-ratio: 31%
+    --bs-aspect-ratio: 31%;
 }
 
 .text-shadow-custom {
